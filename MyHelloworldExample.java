@@ -1,4 +1,4 @@
-package GitTraining;
+
 
 class MyHelloworldExample{
     public static void main(String[] args){
